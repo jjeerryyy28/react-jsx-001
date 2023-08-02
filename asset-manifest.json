@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/jjeerryyy28/react-jsx-001/static/js/main.a2d28b7a.js",
-    "index.html": "/jjeerryyy28/react-jsx-001/index.html",
-    "main.a2d28b7a.js.map": "/jjeerryyy28/react-jsx-001/static/js/main.a2d28b7a.js.map"
+    "main.js": "/react-jsx-001/static/js/main.a2d28b7a.js",
+    "index.html": "/react-jsx-001/index.html",
+    "main.a2d28b7a.js.map": "/react-jsx-001/static/js/main.a2d28b7a.js.map"
   },
   "entrypoints": [
     "static/js/main.a2d28b7a.js"
